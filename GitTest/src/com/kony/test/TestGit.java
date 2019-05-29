@@ -12,7 +12,7 @@ public class TestGit {
 			System.out.println("x is odd");
 		}
     int a =10,b=20;
-    System.out.println("a :"+a+" b :"+b);
+    System.out.println("a :"+a+" b : "+b);
     a = a+b;
     b = a-b;
     a = a-b;
