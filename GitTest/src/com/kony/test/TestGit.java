@@ -11,7 +11,13 @@ public class TestGit {
 		}else{
 			System.out.println("x is odd");
 		}
-
+    int a =10,b=20;
+    System.out.println("a :"+a+" b :"+b);
+    a = a+b;
+    b = a-b;
+    a = a-b;
+    System.out.println("Values after swap");
+    System.out.println("a :"+a+" b :"+b);
 	}
 
 }
