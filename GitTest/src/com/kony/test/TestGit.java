@@ -19,7 +19,7 @@ public class TestGit {
     b = a-b;
     a = a-b;
     System.out.println("Values after swap");
-    System.out.println("a :"+a+" b :"+b);
+    System.out.println("a :"+a+" b : "+b);
 	}
 
 }
