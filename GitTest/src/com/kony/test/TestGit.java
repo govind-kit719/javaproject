@@ -11,6 +11,8 @@ public class TestGit {
 		}else{
 			System.out.println("x is odd");
 		}
+		
+		System.out.println("test statement");
 
 	}
 
