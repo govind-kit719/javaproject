@@ -14,6 +14,7 @@ public class TestGit {
 		
 		System.out.println("test statement");
     int a =10,b=20;
+    System.out.println("Values before swap");
     System.out.println("a : "+a+" b : "+b);
     a = a+b;
     b = a-b;
